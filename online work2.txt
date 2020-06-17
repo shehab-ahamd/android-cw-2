@@ -1,0 +1,13 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+     String[] na ={"sheab","hussain","Ali"};
+     int[] lol = {10,20,40,60};
+     
+     for(int i = 0 ; i< 10 ; i++ ){
+         System.out.println(na[i]);
+     };
+         
+     }
+     
+}
